@@ -9,8 +9,8 @@
    
     🧩 1.Proje       ↪ 01_MainSubjects
 
-             📌 Yazdırma Komutları bilgileri "Merhaba Dünya" ile başlayıp "Yemek Kategorileri" örneği ile 
-                 pekiştirildi.✔
+             📌 Yazdırma Komutları bilgileri "Merhaba Dünya" ile başlayıp "Yemek Kategorileri" örneği 
+                 ile pekiştirildi.✔
 
              📌 String değişkeni; "Rezervasyon Kartı" oluşturularak,
                   Int  değişkeni; "Restoran Menü Fiyatları" çalışması ile hem ekrana yazdırma pratikleri 
