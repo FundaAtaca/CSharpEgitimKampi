@@ -13,8 +13,8 @@
                  ile pekiştirildi.✔
 
              📌 String değişkeni; "Rezervasyon Kartı" oluşturularak,
-                  Int  değişkeni; "Restoran Menü Fiyatları" çalışması ile hem ekrana yazdırma pratikleri 
-                  hem de hesaplamalar yapılarak öğrenilmiş oldu.✔
+                  Int  değişkeni; "Restoran Menü Fiyatları" çalışması ile hem ekrana yazdırma 
+                  pratikleri hem de hesaplamalar yapılarak öğrenilmiş oldu.✔
 *******************************************
     🧩  2. Proje      ↪ 02_Variables       
 
